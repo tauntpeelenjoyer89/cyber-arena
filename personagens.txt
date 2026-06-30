@@ -1,0 +1,4 @@
+1. Ademar o sábio
+Vida: 80
+Ataque: 20
+Habilidade especial: Meteoro
