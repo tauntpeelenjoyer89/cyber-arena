@@ -8,19 +8,19 @@ Objetivos
 |-> Derrotar os monstro
 |-> Acha os tesouros
 |-> Sobreviver (de preferencia)
-==============================================================
+===============================================================
 Fase 2
 Objetivos
 |
 |-> Derrotar mais monstros
 |-> Comprar com um vendedor
 |-> Descansar para recuperar vida e mana
-===============================================================
+================================================================
 Fase 3
 Objetivos
 |
 |-> Derrotar o Dragão
 |-> não deixar o bardo seduzir o dragão(opcional)
 |-> Salvar a princesa e ficar muito rico e famoso
-================================================================
+=================================================================
 
