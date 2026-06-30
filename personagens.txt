@@ -14,3 +14,9 @@ Mana: 35
 Habilidade especial: Sedução perfeita
 
 ========================================
+
+3. Tigrinho pançudo
+
+Vida: 50
+ataque: 25
+habilidade especial: golpe na cara dura
