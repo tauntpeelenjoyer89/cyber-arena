@@ -1,4 +1,16 @@
+========================================
 1. Ademar o sábio
 Vida: 80
 Ataque: 20
+Mana: 50
 Habilidade especial: Meteoro
+
+=========================================
+
+2. Robson obson O Beautiful
+Vida: 120
+ataque: 30
+Mana: 35
+Habilidade especial: Sedução perfeita
+
+========================================
